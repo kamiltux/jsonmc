@@ -12,3 +12,4 @@
     "test": "node tests/tests.js && ./node_modules/jshint/bin/jshint -e json movies/*/*.json actors/*.json"
   }
 }
+this line can brake json!
